@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="알림설정" />
+
+    <SwitchPreference
+        android:key="getNotification"
+        android:summary="알림을 받기 원하시면 체크해주세요."
+        android:title="알림 받기"
+        android:defaultValue="true"/>
+
+    <SwitchPreference
+        android:key="sound"
+        android:summary="소리로 알림을 받으려면 체크해주세요."
+        android:title="소리"
+        android:defaultValue="true"/>
+    <ListPreference
+        android:key="sound_list"
+        android:summary="알림음을 선택해주세요."
+        android:title="알림음"
+        android:entries="@array/sound_list"
+        android:entryValues="@array/sound_list"
+        android:dependency="sound" />
+
+    <CheckBoxPreference
+        android:key="vibrate"
+        android:summary="진동을 통해 알림을 받으려면 체트해주세요."
+        android:title="진동" />
+
+    <PreferenceCategory android:title="기타설정" />
+    <EditTextPreference
+        android:dialogTitle="닉네임 설정"
+        android:key="nickname"
+        android:summary="닉네임을 설정하세요."
+        android:title="닉네임" />
+</PreferenceScreen>

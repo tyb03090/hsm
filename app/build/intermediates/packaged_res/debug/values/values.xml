@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="sound_list">
+        <item>카톡</item>
+        <item>띵동</item>
+        <item>안 터져요</item>
+        <item>뽑빱</item>
+        <item>헤헤이</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent"/>
+    <color name="colorPrimary"/>
+    <color name="colorPrimaryDark"/>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <drawable name="button_round"/>
+    <drawable name="ic_baseline_add_24"/>
+    <drawable name="ic_baseline_clear_24"/>
+    <drawable name="ic_baseline_create_24"/>
+    <drawable name="ic_baseline_photo_camera_24"/>
+    <drawable name="ic_my_icon"/>
+    <string name="app_label"/>
+    <string name="app_name">혼술마켓</string>
+    <string name="default_web_client_id" translatable="false">187758754319-r4ig1im9jvc7s5ojul29tkt1vrt2i9aq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">187758754319</string>
+    <string name="google_api_key" translatable="false">AIzaSyDKx457FIBGD80RwXOepWEB1gSW6QbAaAQ</string>
+    <string name="google_app_id" translatable="false">1:187758754319:android:d88f4bcd6ffa97b5d6417a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDKx457FIBGD80RwXOepWEB1gSW6QbAaAQ</string>
+    <string name="google_storage_bucket" translatable="false">hs-market-d52bc.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="project_id" translatable="false">hs-market-d52bc</string>
+    <string name="search_hint"/>
+    <string name="search_title"/>
+    <string name="title_shop"/>
+    <string name="title_tip"/>
+    <string name="upload_title"/>
+    <style name="Splash" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="Theme.HS_Market" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Widget.Theme.HS_Market.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+</resources>

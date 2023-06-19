@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_one"
+        android:enabled="true"
+        android:title="내정보"
+        android:icon="@drawable/ic_person"/>
+    <item
+        android:id="@+id/item_two"
+        android:enabled="true"
+        android:title="술 게임"
+        android:icon="@drawable/ic_game"/>
+    <item
+        android:id="@+id/item_three"
+        android:enabled="true"
+        android:title="home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/item_four"
+        android:enabled="true"
+        android:title="룰렛"
+        android:icon="@drawable/ic__roulette"/>
+    <item
+        android:id="@+id/item_five"
+        android:enabled="true"
+        android:title="검색"
+        android:icon="@drawable/ic_action_search"/>
+
+</menu>

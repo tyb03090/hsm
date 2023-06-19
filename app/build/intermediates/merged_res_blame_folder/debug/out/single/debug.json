@@ -1,0 +1,766 @@
+[
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_hcure.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\hcure.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_wine5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\wine5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_soju.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_soju.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_yakju4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\yakju4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_wine.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_wine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_makguli5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\makguli5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-pngs-58:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_spirit3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\spirit3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_makgulli.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_makgulli.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_my_comment.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_my_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_soju3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\soju3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_fwine1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\fwine1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_list_srv_item.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\list_srv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_shoplist.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_shoplist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_star_yellow.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\star_yellow.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_camera_2.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\camera_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_data1.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\data1.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_getin.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_getin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_makguli6.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\makguli6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_liquor1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\liquor1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_yakju5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\yakju5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_plusbtn.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\plusbtn.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_wine4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\wine4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_hcure6.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\hcure6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\anim_slide_left_enter.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\anim\\slide_left_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_post_add.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_post_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_spirit4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\spirit4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\anim_slide_right_enter.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\anim\\slide_right_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_login_logo.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\login_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_soju4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\soju4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_spirit.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\spirit.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_ic_action_search.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\ic_action_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_game.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_delete_comment.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_delete_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_honey.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\honey.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_singo.jpeg.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\singo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_board_write.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_board_write.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_content_rv_item.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\content_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_hcure1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\hcure1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_flask.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\flask.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_spirit2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\spirit2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_fwine.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\fwine.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_main_icon_oneroom.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\main_icon_oneroom.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_soju6.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\soju6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_content_list.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_content_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_recipe.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_splash.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_yakju2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\yakju2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_liquor6.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\liquor6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_makguli4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\makguli4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_spirits.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_spirits.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_content_show.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_content_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_spirit5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\spirit5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_hcure4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\hcure4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_my_post.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_my_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_login_background.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\login_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_privacy.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_setting.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_hangover_cure.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_hangover_cure.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_game_3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\game_3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_go_back.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_go_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_ic_shopping_cart.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\ic_shopping_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_data6.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\data6.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_scenter.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_scenter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_pu.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\pu.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_liquor.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\liquor.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_wine2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\wine2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_t_liquor.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_t_liquor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_makguli1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\makguli1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_wine.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\wine.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\xml_setting_preference.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\xml\\setting_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_yakju.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_yakju.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_item_home_banner.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\item_home_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_fwine2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\fwine2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_plus_btn.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_plus_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_board_inside.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_board_inside.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_star.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\star.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_background_radius.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\background_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_hcure3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\hcure3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_gray_ellipse.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\gray_ellipse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_liquor4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\liquor4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_star_outline.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_star_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_roulette.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_roulette.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_fwine5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\fwine5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_board_list_item.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\board_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_dictionary.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_dictionary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_game_2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\game_2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_wine1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\wine1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_camera.jpeg.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\camera.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_makguli.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\makguli.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_star_color.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\star_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_border_round.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\border_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic__roulette.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic__roulette.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_list_rv_item.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\list_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_data3.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\data3.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_my_page.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_my_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_auth.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_ic_communicate.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\ic_communicate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_makguli2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\makguli2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_soju1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\soju1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_tos.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_tos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_liquor3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\liquor3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_star_yellow_off.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\star_yellow_off.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_spirit1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\spirit1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_photo.jpeg.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\photo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_yakju.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\yakju.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_satisfy.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_satisfy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_fruit_wine.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_fruit_wine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_post.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_cu.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\cu.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_fwine4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\fwine4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_makguli3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\makguli3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_background_radius_yellow.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\background_radius_yellow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_wine.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\wine.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_bookmark.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_game_1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\game_1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_data9.jpeg.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\data9.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_yakju1.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\yakju1.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_community.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_community.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_data4.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\data4.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_ic_person.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\ic_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_framelayout.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\framelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_hcure5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\hcure5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_service.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_ic_home.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_main_menu.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\main_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_game_4.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\game_4.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_custom_c.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\custom_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\menu_menu_data1.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\menu\\menu_data1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_wine3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\wine3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_send_comment.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_send_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\anim_slide_left_exit.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\anim\\slide_left_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_data7.jpeg.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\data7.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_data5.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\data5.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_fwine3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\fwine3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_bin_rect.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\bin_rect.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_btnwrite.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\btnwrite.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_bottom_click_color.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\bottom_click_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_image.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_notifications.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_notifications.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_rep.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\rep.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_game_5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\game_5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_wine6.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\wine6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_board_edit.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_board_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\anim_slide_right_exit.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\anim\\slide_right_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\menu_menu_search.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\menu\\menu_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_fwine6.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\fwine6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_ic_star.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\ic_star.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_liquor5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\liquor5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_activity_games.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_hcure2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\hcure2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\menu_menu_home.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\menu\\menu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_soju5.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\soju5.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_yakju3.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\yakju3.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable-v24_soju.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable-v24\\soju.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_spirit6.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\spirit6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_app_theme.png.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\app_theme.png"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_minus_btn.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_minus_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_yakju6.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\yakju6.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_ic_down.xml.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\ic_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_soju2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\soju2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_liquor2.PNG.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\liquor2.PNG"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-merged_res-63:\\drawable_med.jpeg.flat",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\drawable\\med.jpeg"
+    }
+]

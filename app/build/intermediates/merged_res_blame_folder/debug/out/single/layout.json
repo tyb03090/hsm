@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_scenter.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_scenter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_dictionary.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_dictionary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_privacy.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\custom_c.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\custom_c.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_service.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_board_write.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_board_write.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\framelayout.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\framelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_fruit_wine.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_fruit_wine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\list_srv_item.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\list_srv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_search.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_auth.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_roulette.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_roulette.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_image.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_makgulli.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_makgulli.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\list_item.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_tos.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_tos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\board_list_item.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\board_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_wine.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_wine.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_category.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\item_home_banner.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\item_home_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_board_inside.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_board_inside.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_soju.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_soju.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_my_comment.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_my_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_content_show.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_content_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_post.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_content_list.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_content_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_t_liquor.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_t_liquor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_spirits.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_spirits.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_community.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_community.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_my_page.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_my_page.xml"
+    },
+    {
+        "merged": "com.example.hs_market.app-mergeDebugResources-62:/layout/fragment_home.xml",
+        "source": "com.example.hs_market.app-main-65:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\content_rv_item.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\content_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_notification.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_board_edit.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_board_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_yakju.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_yakju.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_shoplist.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_shoplist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_my_post.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_my_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_recipe.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_recipe.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_bookmark.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\activity_games.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\activity_games.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\list_rv_item.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\list_rv_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_setting.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-mergeDebugResources-62:\\layout\\fragment_hangover_cure.xml",
+        "source": "C:\\Users\\Y-JUN\\.gradle\\daemon\\7.3.3\\com.example.hs_market.app-main-65:\\layout\\fragment_hangover_cure.xml"
+    }
+]
